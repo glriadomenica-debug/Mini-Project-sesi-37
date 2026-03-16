@@ -19,7 +19,7 @@ Proyek ini merupakan sistem database untuk learning management system yang digun
 * Dbeaver
 * DrawSQL (Perancang Database - ERD)
 
-**cara Menjalankan Database**
+**Cara Menjalankan Database**
 1. Buka Xampp (run Mysql)
 2. Buka Dbeaver (Buat database baru)
 3. Import file SQL dan Jalankan script pembuatan tabel
